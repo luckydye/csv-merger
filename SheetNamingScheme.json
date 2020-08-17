@@ -1,5 +1,5 @@
 {
-    "useFileNames": false,
+    "useFileNames": true,
     "offset": 2016,
     "categories": [
         "Jan",
